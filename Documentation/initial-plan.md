@@ -15,7 +15,14 @@ how data will be parsed from md files
 desired statitistics of trainning logs such as volume, PR and more
 
 ## Phase 2: Understanding Rust file I/O
-this is when I should learn rust and the completion of this phase should output the data from one workout into a table 
+this is when I should learn rust and the completion of this phase should output the data
+from one workout into a table 
+### Desired outcomes:
+the code should take a text file as input and print the sets done for each exercise in this format:
+For "exercise" - ID, you did:
+set 1: "reps" reps with "weight" kg
+set 2: "reps" reps with "weight" kg
+set 3: "reps" reps with "weight" kg
 
 ## Phase 3: Understanding PostgreSQL and scalable Databases
 this should phase I will understand how to log data from the rust program into a database while following industry standards and best practices

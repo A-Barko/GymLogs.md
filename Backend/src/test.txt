@@ -1,0 +1,47 @@
+%
+ID - "Exercise name"
+Num-Reps * Weight 
+Num-Reps * Weight 
+Num-Reps * Weight 
+%
+
+
+
+
+%
+ID - "Exercise name"
+Num-Reps * Weight 
+Num-Reps * Weight 
+Num-Reps * Weight 
+%
+
+
+some unrelated text
+bla bla
+
+
+%
+ID - "Exercise name"
+Num-Reps * Weight 
+Num-Reps * Weight 
+Num-Reps * Weight 
+%   
+
+
+
+big guy
+
+%
+ID - "Exercise name"
+Num-Reps * Weight 
+Num-Reps * Weight 
+Num-Reps * Weight 
+%
+
+
+%
+ID - "Exercise name"
+Num-Reps * Weight 
+Num-Reps * Weight 
+Num-Reps * Weight 
+%

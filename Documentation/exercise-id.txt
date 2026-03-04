@@ -1,0 +1,2 @@
+ALL ID of each exercise
+0x41 - Bench press
