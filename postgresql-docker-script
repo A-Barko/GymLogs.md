@@ -1,0 +1,19 @@
+#These commands require you to install a docker engine on host machine
+#Runs a docker container using the PostgreSQL image
+sudo docker run --name gymlogsdb \
+-e POSTGRES_PASSWORD="Not going to tell you, not that it matters if you know it" \
+-p 5431:5432 \
+-d postgres
+
+#Allows us to connect to our Database within our container instead of another local machine
+sudo docker exec -it gymlogsdb psql -U postgres
+
+#stop container
+sudo docker stop gymlogsdb
+
+#Using docker run again will overwrite existing container and all data will be lost
+#start container after stoping it or server shuts down
+sudo docker start gymlogsdb
+
+#Delete container 
+sudo docker rm gymlogsdb
